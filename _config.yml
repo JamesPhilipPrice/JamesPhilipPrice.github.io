@@ -1,4 +1,6 @@
+<head>
 <link rel="stylesheet" type="text/css" href="master.css">
+</head>
 title: James Price # your name (or website title) here
 logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
