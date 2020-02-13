@@ -6,7 +6,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   Current personal project:
   Oculus quest, rogue-like
   <br><br>
-  [View my LinkedIn profile](https://www.linkedin.com/in/james-price-404759194/)
+  <a href="https://www.linkedin.com/in/james-price-404759194/">View My LinkedIn Profile</a>
+  <a href="https://james7421.itch.io/">View My Itch.io Profile</a>
   
 theme: jekyll-theme-cayman
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
