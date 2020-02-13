@@ -4,7 +4,7 @@
 
 ### University Work 
 
-[2D boat racing game](/sample_page)
+[2D boat racing game](/2DBoatRacingGame)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
