@@ -2,14 +2,14 @@
 <link rel="stylesheet" type="text/css" href="master.css">
 </head>
 title: James Price # your name (or website title) here
-#logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
+logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   BSc Computer Games Technology student at Birmingham City University 
   <br><br>
   Current personal project:
   Oculus quest, rogue-like
   <br><br>
-#  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/james-price-404759194/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-cayman
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
