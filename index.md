@@ -8,8 +8,8 @@
 <img src="images/2DBoatPreview.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[3D modelling](/3DModelling)
+<img src="images/3DModellingPreview.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
