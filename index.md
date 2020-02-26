@@ -11,15 +11,12 @@
 [3D modelling](/3DModelling)
 <img src="images/3DModellingPreview.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Personal projects
 
-- [VR roguelike (Oculus Quest) (broken link)](http://example.com/)
+[VR roguelike (Oculus Quest) (Current Development) (broken link)](http://example.com/)
 
 
 ---
