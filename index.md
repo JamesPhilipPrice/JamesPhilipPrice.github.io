@@ -2,10 +2,10 @@
 
 ---
 
-### University Work 
+### University Work
 
 [2D boat racing game](/2DBoatRacingGame)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/2DBoatPreview.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
