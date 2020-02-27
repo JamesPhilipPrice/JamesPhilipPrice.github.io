@@ -20,9 +20,9 @@ The resulting game is the first game created by myself in the Unity engine.
 ### Game description
 
 **Game premise:** The game is a speedboat racing game that is playable by two players, with either keyboard or Xbox controls. The objective of the game is to either be the first to reach the target distance or to be the only player remaining alive, by avoiding the oncoming obstacles.
----
-<img src="images/2DBoatRacing/Overview.jpg?raw=true"/>
----
+
+<img src="/images/2DBoatRacing/Overview.jpg?raw=true"/>
+
 **Specific highlights:** A particular component of the game that stood out to me as it was developed was the way of controlling the players, as it taught me that small additions to simple mechanics can go a long way to make the overall experience more satisfying for the player. In this case I am reffering to the speed and turning controls of the boat.
 In the game the player sets a target speed for the boat to travel out and the boat accelerates to that target and then holds at that speed, and an example of how I programmed that is below.
 ```csharp
