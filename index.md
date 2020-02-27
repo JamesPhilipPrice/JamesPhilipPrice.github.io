@@ -16,8 +16,8 @@
 
 ### Personal projects
 
-[VR roguelike (Oculus Quest) (Current Development) (broken link)](http://example.com/)
-
+[VR roguelike (Oculus Quest) (Current Development) (broken link)](/personalProjects/VRProject_roguelikePreview)
+<img src="images/VRProject_roguelikePreview.png?raw=true"/>
 
 ---
 
