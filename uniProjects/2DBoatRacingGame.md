@@ -59,5 +59,8 @@ Though this adds a relatively small change to the handling mechanics, it made th
 
 **Shortcomings:** The most prominent of the shortcomings in the game was the spawning of the obstacles as it was based upon system time and would spawn above the boats, relative to their position, meaning that if the player remained stationary for long enough, there would be a large build up of obstacles that cluster together to create an impassable blockage meaning the game would need to be restarted. This could have instead been fixed by either having obstacles spawn based on how far the boat has travelled or by generating the obstacles before the game starts.
 This issue has shown how small things in a game can create drastic differences in how the game can operate as as such, I now take stuff like this into consideration before implementing the first solution I find.
+
+---
+
 ### Presentation video
 [Click here to watch the presentation video on YouTube](https://youtu.be/STnrpzrlQls)
