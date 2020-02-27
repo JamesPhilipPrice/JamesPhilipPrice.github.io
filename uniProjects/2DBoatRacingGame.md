@@ -4,16 +4,16 @@
 **Project description:** The given task given was to create a 2D side scrolling game that revolved around boat racing. The theme of the game was to be chosen from a list given and this game's theme is speedboats. The brief for the game sets out the following requirements for the final version of the game:
 ```
 
--  Scrolling background and foregrounds with discernible parallaxing being implemented.
--	Boat can move forward, backwards as well as rotating left and right.
--	Fully functioning user interface displaying player lives, health, scores and timer.
--	Penalty system which is displayed in fully working UI.
--	Playable with keyboard as well as Xbox controller or equivalent.
--	Four uniquely different randomly timed obstacles / challenges.
--	Playable by two players.
--	Implementation of two unique rewards, bonuses or power ups which are correctly displayed in fully working UI.
--	Opponent sabotage mechanics.
--	Weather condition / physics implemented which are relevant to the theme.
+- Scrolling background and foregrounds with discernible parallaxing being implemented.
+- Boat can move forward, backwards as well as rotating left and right.
+- Fully functioning user interface displaying player lives, health, scores and timer.
+- Penalty system which is displayed in fully working UI.
+- Playable with keyboard as well as Xbox controller or equivalent.
+- Four uniquely different randomly timed obstacles / challenges.
+- Playable by two players.
+- Implementation of two unique rewards, bonuses or power ups which are correctly displayed in fully working UI.
+- Opponent sabotage mechanics.
+- Weather condition / physics implemented which are relevant to the theme.
 ```
 The editor used to create the game was Unity (version 2019.1.10f1), as required by the brief and the rationale for this module was to give and introduction to Unity.
 The resulting game is the first game created by myself in the Unity engine.
