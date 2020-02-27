@@ -4,12 +4,9 @@
 **Project description:** The given task given was to create a 2D side scrolling game that revolved around boat racing. The theme of the game was to be chosen from a list given and this game's theme is speedboats. The brief for the game sets out the following requirements for the final version of the game:
 ```
 
-- Scrolling background and foregrounds with discernible parallaxing being implemented.
-
+-  Scrolling background and foregrounds with discernible parallaxing being implemented.
 -	Boat can move forward, backwards as well as rotating left and right.
-
 -	Fully functioning user interface displaying player lives, health, scores and timer.
-
 -	Penalty system which is displayed in fully working UI.
 -	Playable with keyboard as well as Xbox controller or equivalent.
 -	Four uniquely different randomly timed obstacles / challenges.
