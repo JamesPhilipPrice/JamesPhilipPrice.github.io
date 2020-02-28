@@ -14,7 +14,7 @@
 - Opponent sabotage mechanics.
 - Weather condition / physics implemented which are relevant to the theme.
 ```
-The editor used to create the game was Unity (version 2019.1.10f1), as required by the brief and the rationale for this module was to give and introduction to Unity.
+The editor used to create the game was Unity (version 2019.1.10f1), as required by the brief and the rationale for this module was to give an introduction to Unity.
 The resulting game is the first game created by myself in the Unity engine.
 ---
 ### Game description
@@ -60,6 +60,7 @@ Though this adds a relatively small change to the handling mechanics, it made th
 **Shortcomings:** The most prominent of the shortcomings in the game was the spawning of the obstacles as it was based upon system time and would spawn above the boats, relative to their position, meaning that if the player remained stationary for long enough, there would be a large build up of obstacles that cluster together to create an impassable blockage meaning the game would need to be restarted. This could have instead been fixed by either having obstacles spawn based on how far the boat has travelled or by generating the obstacles before the game starts.
 This issue has shown how small things in a game can create drastic differences in how the game can operate as as such, I now take stuff like this into consideration before implementing the first solution I find.
 
+**Post-development observations:** Looking back on both the highlights and shortcomings of my first game in Unity, it became clear that even tiny details in games require a lot of planning so that they can be properly implemented and improve the overall experience for the player. One of most important things I took away from this experience is that like software, video game experiences can be helped or hindered by the way that the user/player interacts with the system and controls what is happening on screen; furthermore, it is down to the developer to ensure that the user experience of a game is the best it can be.
 ---
 
 ### Presentation video
