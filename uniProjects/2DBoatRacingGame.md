@@ -61,6 +61,7 @@ Though this adds a relatively small change to the handling mechanics, it made th
 This issue has shown how small things in a game can create drastic differences in how the game can operate as such, I now consider stuff like this before implementing the first solution I find.
 
 **Post-development observations:** Looking back on both the highlights and shortcomings of my first game in Unity, it became clear that even tiny details in games require a lot of planning so that they can be properly implemented and improve the overall experience for the player. One of the most important things I took away from this experience is that like software, video game experiences can be helped or hindered by the way that the user/player interacts with the system and controls what is happening on screen; furthermore, it is down to the developer to ensure that the user experience of a game is the best it can be.
+
 ---
 
 ### Presentation video
