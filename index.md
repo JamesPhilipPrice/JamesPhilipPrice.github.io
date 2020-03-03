@@ -16,7 +16,7 @@
 
 ### Personal projects
 
-[VR roguelike (Oculus Quest) (Current Development) (broken link)](/personalProjects/VRProject_roguelikePreview)
+[VR roguelike (Oculus Quest) (Current Development)](https://jamesphilipprice.github.io/VRPersonalProject/)
 <img src="images/VRProject_roguelikePreview.png?raw=true"/>
 
 ---
