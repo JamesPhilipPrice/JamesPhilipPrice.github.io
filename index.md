@@ -1,14 +1,62 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### University Work
-
+## University Work
+### Year 1
 [2D boat racing game](uniProjects/2DBoatRacingGame)
 <img src="images/2DBoatPreview.jpg?raw=true"/>
 
 ---
-[3D modelling](uniProjects/3DModelling)
+[CGI modelling](uniProjects/3DModelling)
+<img src="images/3DModellingPreview.jpg?raw=true"/>
+
+
+---
+[Professional practice for Games Development](uniProjects/3DModelling)
+<img src="images/3DModellingPreview.jpg?raw=true"/>
+
+
+---
+[3D Game Programming](uniProjects/2DBoatRacingGame)
+<img src="images/2DBoatPreview.jpg?raw=true"/>
+
+---
+[CGI animation](uniProjects/3DModelling)
+<img src="images/3DModellingPreview.jpg?raw=true"/>
+
+
+---
+[Data Structures and Algorithms](uniProjects/3DModelling)
+<img src="images/3DModellingPreview.jpg?raw=true"/>
+
+
+---
+### Year 2
+[3D Game Development](uniProjects/2DBoatRacingGame)
+<img src="images/2DBoatPreview.jpg?raw=true"/>
+
+---
+[C++ Programming for Games](uniProjects/3DModelling)
+<img src="images/3DModellingPreview.jpg?raw=true"/>
+
+
+---
+[Web Games Development](uniProjects/3DModelling)
+<img src="images/3DModellingPreview.jpg?raw=true"/>
+
+
+---
+[Computer Graphics](uniProjects/2DBoatRacingGame)
+<img src="images/2DBoatPreview.jpg?raw=true"/>
+
+---
+[Programming for Game Engines](uniProjects/3DModelling)
+<img src="images/3DModellingPreview.jpg?raw=true"/>
+
+
+---
+[Collaborative Practice](uniProjects/3DModelling)
 <img src="images/3DModellingPreview.jpg?raw=true"/>
 
 
