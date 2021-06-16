@@ -19,7 +19,7 @@
 
 ---
 [3D Game Programming](uniProjects/YearOne/3DGamesProgramming)
-<img src="images/UniWork/YearOne/2DBoatPreview.jpg?raw=true"/>
+<img src="images/UniWork/YearOne/3DGamePreview.png?raw=true"/>
 
 ---
 [CGI animation](uniProjects/YearOne/CGIAnimation)
