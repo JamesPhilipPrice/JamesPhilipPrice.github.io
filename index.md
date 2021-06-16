@@ -4,7 +4,7 @@
 
 ## University Work
 ### Year 1
-[2D boat racing game](uniProjects/YearOne/2DGamesProgramming)
+[2D Game Programming](uniProjects/YearOne/2DGamesProgramming)
 <img src="images/2DBoatPreview.jpg?raw=true"/>
 
 ---
