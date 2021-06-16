@@ -23,7 +23,7 @@
 
 ---
 [CGI animation](uniProjects/YearOne/CGIAnimation)
-<img src="images/UniWork/YearOne/3DModellingPreview.jpg?raw=true"/>
+<img src="images/UniWork/YearOne/CGIAnimationPreview.jpg?raw=true"/>
 
 
 ---
