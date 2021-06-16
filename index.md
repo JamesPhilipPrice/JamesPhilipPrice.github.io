@@ -14,7 +14,7 @@
 
 ---
 [Professional practice for Games Development](uniProjects/YearOne/ProfessionalPracticeForGamesDevelopment)
-<img src="images/UniWork/YearOne/PPFGDPreview.jpg?raw=true"/>
+<img src="images/UniWork/YearOne/PPFGDPreview.png?raw=true"/>
 
 
 ---
