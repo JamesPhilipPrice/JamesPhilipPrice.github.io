@@ -28,7 +28,7 @@
 
 ---
 [Data Structures and Algorithms](uniProjects/YearOne/DataStructuresAndAlgorithms)
-<img src="images/UniWork/YearOne/3DModellingPreview.jpg?raw=true"/>
+<img src="images/UniWork/YearOne/DSAPreview.png?raw=true"/>
 
 
 ---
