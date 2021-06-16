@@ -5,30 +5,30 @@
 ## University Work
 ### Year 1
 [2D Game Programming](uniProjects/YearOne/2DGamesProgramming)
-<img src="images/2DBoatPreview.jpg?raw=true"/>
+<img src="images/UniWork/YearOne/2DBoatPreview.jpg?raw=true"/>
 
 ---
 [CGI modelling](uniProjects/YearOne/CGIModelling)
-<img src="images/3DModellingPreview.jpg?raw=true"/>
+<img src="images/UniWork/YearOne/3DModellingPreview.jpg?raw=true"/>
 
 
 ---
 [Professional practice for Games Development](uniProjects/YearOne/ProfessionalPracticeForGamesDevelopment)
-<img src="images/3DModellingPreview.jpg?raw=true"/>
+<img src="images/UniWork/YearOne/PPFGDPreview.png?raw=true"/>
 
 
 ---
 [3D Game Programming](uniProjects/YearOne/3DGamesProgramming)
-<img src="images/2DBoatPreview.jpg?raw=true"/>
+<img src="images/UniWork/YearOne/2DBoatPreview.jpg?raw=true"/>
 
 ---
 [CGI animation](uniProjects/YearOne/CGIAnimation)
-<img src="images/3DModellingPreview.jpg?raw=true"/>
+<img src="images/UniWork/YearOne/3DModellingPreview.jpg?raw=true"/>
 
 
 ---
 [Data Structures and Algorithms](uniProjects/YearOne/DataStructuresAndAlgorithms)
-<img src="images/3DModellingPreview.jpg?raw=true"/>
+<img src="images/UniWork/YearOne/3DModellingPreview.jpg?raw=true"/>
 
 
 ---
