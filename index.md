@@ -4,59 +4,59 @@
 
 ## University Work
 ### Year 1
-[2D boat racing game](uniProjects/2DBoatRacingGame)
+[2D Game Programming](uniProjects/YearOne/2DGamesProgramming)
 <img src="images/2DBoatPreview.jpg?raw=true"/>
 
 ---
-[CGI modelling](uniProjects/3DModelling)
+[CGI modelling](uniProjects/YearOne/CGIModelling)
 <img src="images/3DModellingPreview.jpg?raw=true"/>
 
 
 ---
-[Professional practice for Games Development](uniProjects/3DModelling)
+[Professional practice for Games Development](uniProjects/YearOne/ProfessionalPracticeForGamesDevelopment)
 <img src="images/3DModellingPreview.jpg?raw=true"/>
 
 
 ---
-[3D Game Programming](uniProjects/2DBoatRacingGame)
+[3D Game Programming](uniProjects/YearOne/3DGamesProgramming)
 <img src="images/2DBoatPreview.jpg?raw=true"/>
 
 ---
-[CGI animation](uniProjects/3DModelling)
+[CGI animation](uniProjects/YearOne/CGIAnimation)
 <img src="images/3DModellingPreview.jpg?raw=true"/>
 
 
 ---
-[Data Structures and Algorithms](uniProjects/3DModelling)
+[Data Structures and Algorithms](uniProjects/YearOne/DataStructuresAndAlgorithms)
 <img src="images/3DModellingPreview.jpg?raw=true"/>
 
 
 ---
 ### Year 2
-[3D Game Development](uniProjects/2DBoatRacingGame)
+[3D Game Development](uniProjects/YearTwo/3DGameDev)
 <img src="images/2DBoatPreview.jpg?raw=true"/>
 
 ---
-[C++ Programming for Games](uniProjects/3DModelling)
+[C++ Programming for Games](uniProjects/YearTwo/CPPForGames)
 <img src="images/3DModellingPreview.jpg?raw=true"/>
 
 
 ---
-[Web Games Development](uniProjects/3DModelling)
+[Web Games Development](uniProjects/YearTwo/WebGames)
 <img src="images/3DModellingPreview.jpg?raw=true"/>
 
 
 ---
-[Computer Graphics](uniProjects/2DBoatRacingGame)
+[Computer Graphics](uniProjects/YearTwo/ComputerGraphics)
 <img src="images/2DBoatPreview.jpg?raw=true"/>
 
 ---
-[Programming for Game Engines](uniProjects/3DModelling)
+[Programming for Game Engines](uniProjects/YearTwo/ProgrammingForGameEngines)
 <img src="images/3DModellingPreview.jpg?raw=true"/>
 
 
 ---
-[Collaborative Practice](uniProjects/3DModelling)
+[Collaborative Practice](uniProjects/YearTwo/CollaborativePractice)
 <img src="images/3DModellingPreview.jpg?raw=true"/>
 
 
