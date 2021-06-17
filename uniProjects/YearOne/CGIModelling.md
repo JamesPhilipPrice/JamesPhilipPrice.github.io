@@ -1,31 +1,18 @@
-## This can be your internal website page / project page
+## CGI Modelling
+### (For module DIG4165 CGI Modelling)
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** The project for this module was to create and render both an environment scene and create and render a character from scratch using Autodesk Maya as the software for the assessment. The environment was to be created using refference imagery and the character was to be designed from scratch and created from the sketches.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+**My Work:** For the environment I recreated Balmora, a fictional town from The Elder Scrolls III: Morrowind, by using a mixture of design art from the environment and screenshots pulled from the game and for the character I created an evil looking robot from my sketches
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
+## Renders
+###Environment
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### Character
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Post Module thoughts
+This module was my first introductiuon into any form of 3D modelling and rendering and scince then I have continued to develop my abilities in 3D modelling and have also learned more 3D software i.e. Blender and I will use these transferable skills to keep creating 3D models for game development
