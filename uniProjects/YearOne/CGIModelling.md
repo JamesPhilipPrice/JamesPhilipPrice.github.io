@@ -8,11 +8,11 @@
 ## Renders
 ### Environment
 
-<img src="images/UniWork/YearOne/CGIModelling/Day.png?raw=true"/>
+<img src="/images/UniWork/YearOne/CGIModelling/Day.png?raw=true"/>
 
 ### Character
 
-<img src="images/UniWork/YearOne/CGIModelling/Sunset.png?raw=true"/>
+<img src="/images/UniWork/YearOne/CGIModelling/Sunset.png?raw=true"/>
 
 ## Post Module thoughts
 This module was my first introductiuon into any form of 3D modelling and rendering and scince then I have continued to develop my abilities in 3D modelling and have also learned more 3D software i.e. Blender and I will use these transferable skills to keep creating 3D models for game development
