@@ -6,7 +6,7 @@
 **My Work:** For the environment I recreated Balmora, a fictional town from The Elder Scrolls III: Morrowind, by using a mixture of design art from the environment and screenshots pulled from the game and for the character I created an evil looking robot from my sketches
 
 ## Renders
-###Environment
+### Environment
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
