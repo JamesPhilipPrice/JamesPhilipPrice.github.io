@@ -1,16 +1,9 @@
-## This can be your internal website page / project page
+## Professional Practice for Game Development
+### (For module CMP4271 Professional Practice for Game Development)
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Over the course of the module we had to develop the core transferable skills for creating and developing ideas for games. Each wee we would be given a short brief and put into different teams and we must then work as teams to create a prototype of a game that fits to brief in a short period of time and then present it to the rest of the class
+Throughout this period of time we also created short week by week analysis reports on those lessons and our experiences working in the given teams and the brief and for the final submission of the module we created a report based upon those week by week documents.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
 ### 2. Assess assumptions on which statistical inference will be based
 
